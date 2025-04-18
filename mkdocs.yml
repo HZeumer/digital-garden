@@ -6,11 +6,13 @@ theme:
   font:
     text: JetBrains Mono
     code: Rubik
-
+  features:
+    - navigation.tabs
+    - navigation.footer
   logo: assets/logo.png
   favicon: assets/favicon.ico
-  features:
-    - navigation.footer
+
+    
   palette: 
     # Dark Mode
     - scheme: slate
@@ -63,6 +65,7 @@ extra:
 copyright: Copyright &copy; 2025 Heiko Zeumer
 
 nav:
-  - index.md
+  - Home:
+    - index.md
   - Blog:
     - blog/index.md
