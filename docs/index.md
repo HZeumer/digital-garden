@@ -11,15 +11,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-Hold my :beer: i played :soccer:
-
-Das ist ein Test
-
-HaHaHa
-
-Mal schauen wie es sich verhält wenn ich es nicht direkt in den Main branche pushe
+Das ist der Test123
