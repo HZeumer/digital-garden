@@ -1,4 +1,11 @@
-# Willkommen im Digital-Garden von Heiko Zeumer
+---
+hide:
+ - footer
+---
+
+# Willkommen
+
+## Wilkommen im Digital-Garden von Heiko Zeumer
 
 Ziel hier ist es, mich mit den aktuellen Techniken von MKDocs, github zu beschäftigen und mein Intertesse an verschiedenen Themen zu teilen.
 Ich möchte diese Plattfrom nutzen um das was ich mache zu dokumentieren und immer Zugriff auf die Informationen zu haben.

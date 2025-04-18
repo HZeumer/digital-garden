@@ -3,12 +3,16 @@ site_description: Mein Digitaler Garten mit Infos zu Themen die mich interessier
 site_url: https://zeumer.com
 theme:
   name: material
+  language: de
   font:
     text: JetBrains Mono
     code: Rubik
   features:
     - navigation.tabs
     - navigation.footer
+    - content.code.copy
+    - search.suggest
+    - search.highlight
   logo: assets/logo.png
   favicon: assets/favicon.ico
 
@@ -38,8 +42,8 @@ plugins:
       archive_url_date_format: MM/yyyy
       post_url_format: "{slug}"
 
-  - tags:
-      tags_file: tags.md
+  - tags
+
 
 markdown_extensions:
   - pymdownx.emoji:
@@ -56,6 +60,9 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
 
 extra:
   social:
@@ -67,5 +74,14 @@ copyright: Copyright &copy; 2025 Heiko Zeumer
 nav:
   - Home:
     - index.md
+    - impressum.md
+    - haftungsausschluss.md
+
+  - Howtos:
+    - howtos/index.md
+
   - Blog:
     - blog/index.md
+
+
+
