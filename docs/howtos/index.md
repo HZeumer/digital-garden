@@ -9,15 +9,15 @@ tags:
 
 Wenn man einen SSH Key hat den man auf einem neuen System wieder aktivieren möchte müssen folgenden Schritte gemacht werden.
 
-Vorhandene Dateien 'id_rsa.pub' und 'id_rsa' in den .ssh Ordner kopieren.
+Vorhandene Dateien ==id_rsa.pub== und ==id_rsa== in den ==.ssh== Ordner kopieren.
 
-Auf einem Mac System ist dieser Ordner per default nicht sichtbar, mit der  Tastenkombination 'command' + 'shift' + '.' werden die versteckten Dateien und Order eingeblendet.
+Auf einem Mac System ist dieser Ordner per default nicht sichtbar, mit der  Tastenkombination ++command+shift+period++ werden die versteckten Dateien und Order eingeblendet.
 
 ![Ausgeblendete Dateien und ordner](ssh01.png)
 
 ![Anzeige der versteckten Dateien und Ordner](ssh02.png)
 
-Wenn der Ordern '.ssh' nicht vorhanden ist kann er einfach erstellt werden. Wichtig hierbei ist das der '.' mit im Ordernamen angegeben wird.
+Wenn der Ordern '.ssh' nicht vorhanden ist kann er einfach erstellt werden. Wichtig hierbei ist das der ==.== mit im Ordernamen angegeben wird.
 
 Der Inhalt kann wie hier im Beispiel auch schon Dateien wir 'config' oder 'known_hosts' enthalten.
 
