@@ -6,8 +6,8 @@ Ich möchte diese Plattfrom nutzen um das was ich mache zu dokumentieren und imm
 - HowTos
 - Anleitungen
 - Interessen
-  - 3D Druck
-  - Docker
-  - Proxmox
-  - Homeassistant
-  usw.
+- 3D Druck
+- Docker
+- Proxmox
+- Homeassistant
+usw.
