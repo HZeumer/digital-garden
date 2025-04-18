@@ -1,14 +1,13 @@
-# Welcome to MkDocs
+# Willkommen im Digital-Garden von Heiko Zeumer
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Ziel hier ist es mich mit den aktuellen Techniken von MKDocs, github zu beschäftigen und mein Intertesse an verschiedneen Themen zu teilen.
+Ich möchte diese Plattfrom nutzen um das was ich mache zu dokumentieren und immer Zugriff auf die Informationen zu haben.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-Das ist der Test123
+- HowTos
+- Anleitungen
+- Interessen
+  - 3D Druck
+  - Docker
+  - Proxmox
+  - Homeassistant
+  usw.
