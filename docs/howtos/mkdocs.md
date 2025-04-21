@@ -26,7 +26,7 @@ Damit Links in einem neuen Tab geöffnet werden und nicht im aktuellen Fenster m
     ```
 
     ```txt
-    [Google](https://google.com){target="_blank"}
+    [Github](https://github.com){target="_blank"}
     ```
 
     Ergebnis:
