@@ -5,9 +5,9 @@ tags:
     - ssh
 ---
 
-# SSH Key aktiveren
+# SSH Key aktivieren
 
-Wenn man einen SSH Key hat den man auf einem neuen System wieder aktivieren möchte müssen folgenden Schritte gemacht werden.
+Wenn man einen SSH Key hat den man auf einem neuen System wieder aktivieren möchte, müssen folgenden Schritte gemacht werden.
 
 Vorhandene Dateien ==id_rsa.pub== und ==id_rsa== in den ==.ssh== Ordner kopieren.
 
@@ -17,13 +17,13 @@ Auf einem Mac System ist dieser Ordner per default nicht sichtbar, mit der  Tast
 
 ![Anzeige der versteckten Dateien und Ordner](ssh02.png)
 
-Wenn der Ordern '.ssh' nicht vorhanden ist kann er einfach erstellt werden. Wichtig hierbei ist das der ==.== mit im Ordernamen angegeben wird.
+Wenn der Ordern '.ssh' nicht vorhanden ist, kann er einfach erstellt werden. Wichtig hierbei ist das der ==.== mit im Ordernamen angegeben wird.
 
-Der Inhalt kann wie hier im Beispiel auch schon Dateien wir 'config' oder 'known_hosts' enthalten.
+Der Ordner kann wie hier im Beispiel auch schon Dateien wie 'config' oder 'known_hosts' enthalten.
 
 ![Ordner Inhalt](ssh03.png)
 
-Nachdem die Datein in den Ordner kopiert wurden müssen noch die entsprechenden Rechte gesetzt werden, dieses erfolgt im Terminal.
+Nachdem die Dateen in den Ordner kopiert wurden, müssen noch die entsprechenden Rechte gesetzt werden, dieses erfolgt im Terminal.
 
 ```shell title="Public Key"
 chmod 644 ~/.ssh/id_rsa.pub
