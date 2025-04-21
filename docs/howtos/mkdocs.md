@@ -12,7 +12,7 @@ Damit Links in einem neuen Tab geöffnet werden und nicht im aktuellen Fenster m
 
 1. Anpassung der mkdocs.yml Datei
 
-    In der yml muss in den Markdown Extenstion die erweiterung `attr_list` hinzugefügt werden.
+    In der yml muss in den Markdown Extenstion die Erweiterung `attr_list` hinzugefügt werden.
 
     ```yml
     markdown_extensions:
