@@ -1,6 +1,7 @@
 ---
 date:
     created: 2025-04-18
+    updated: 2025-04-21
 tags:
     - ssh
 ---
