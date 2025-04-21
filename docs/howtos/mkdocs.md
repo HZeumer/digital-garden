@@ -1,3 +1,9 @@
+---
+date:
+    created: 2025-04-21
+tags:
+    - mkdocs
+---
 # Material for MkDocs
 
 ## Links in neuen Tab öffnen
