@@ -85,6 +85,10 @@ nav:
 
   - Howtos:
     - howtos/index.md
+    - howtos/mkdocs.md
+
+  - Ressourcen:
+    - ressources.md
 
   - Blog:
     - blog/index.md
